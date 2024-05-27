@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `ULRBf-log`,
-      href: "https://github.com/ULRBf/morethan-log",
+      href: "https://github.com/ULRBf/ULRBf-log",
     },
   ],
   // blog setting (required)
